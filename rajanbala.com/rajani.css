@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+name {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+name {
+	font-family:lora;
+	line-height: 2;
+	font-kerning: auto;
+	font-size: 100px;
+	color:antiquewhite;
+	background-color: black;
+}
+	
